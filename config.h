@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "DejaVu Sans Mono Nerd Font:size=12:antialiasing=true;autohint=true";
+static char *font = "JetBrainsMonoNL Nerd Font:size=12:antialiasing=true;autohint=true";
 static int borderpx = 2;
 
 /*
@@ -133,7 +133,7 @@ static const char *colorname[] = {
  */
 unsigned int defaultfg = 257;
 unsigned int defaultbg = 256;
-static unsigned int defaultcs = 2;
+static unsigned int defaultcs = 3;
 static unsigned int defaultrcs = 0;
 
 /*
